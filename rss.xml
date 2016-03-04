@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[emtro]]></title>
         <description><![CDATA[emtro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emtro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:41:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 21:54:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emtro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33387c24-e592-454e-9176-a5a405391864.jpg">]]></description>
+            <link>https://thegrid.ai/emtro/fa9a9b90-dac6-479f-8115-2ccbb95229da/index.html</link>
+            <guid isPermaLink="false">fa9a9b90-dac6-479f-8115-2ccbb95229da</guid>
+            <pubDate>Fri, 04 Mar 2016 21:52:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec86b755-230d-45b8-9666-79b35dd47412.jpg">]]></description>
-            <link>undefined27974d39-6c7a-4330-90b4-de98f5fa7473/index.html</link>
+            <link>https://thegrid.ai/emtro/27974d39-6c7a-4330-90b4-de98f5fa7473/index.html</link>
             <guid isPermaLink="false">27974d39-6c7a-4330-90b4-de98f5fa7473</guid>
             <pubDate>Fri, 04 Mar 2016 21:41:07 GMT</pubDate>
         </item>
