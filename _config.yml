@@ -1,6 +1,6 @@
 name: emtro
 favicon: null
-layout_spectrum: 0.9212325478438288
+layout_spectrum: 1
 typography_spectrum: 0.4703347967006266
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.4444665589835495
+  brandStrength: 0.75
   lightness: 0.7123148548416793
-  saturation: 0.17900322657078505
+  saturation: 0.125
   rhythmicContrast: 0.08122593956068158
 purpose: []
